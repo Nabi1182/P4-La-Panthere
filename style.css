@@ -44,6 +44,11 @@ a:hover {
     padding-right: 0;
 }
 
+.row{
+    margin-right: 0;
+    margin-left: 0;
+}
+
 .bloc-lg {
     padding: 100px 50px;
 }
